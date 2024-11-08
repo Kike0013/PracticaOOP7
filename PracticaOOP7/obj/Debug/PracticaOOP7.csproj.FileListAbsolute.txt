@@ -1,0 +1,7 @@
+C:\Users\kique\source\repos\PracticaOOP7\PracticaOOP7\bin\Debug\PracticaOOP7.exe.config
+C:\Users\kique\source\repos\PracticaOOP7\PracticaOOP7\bin\Debug\PracticaOOP7.exe
+C:\Users\kique\source\repos\PracticaOOP7\PracticaOOP7\bin\Debug\PracticaOOP7.pdb
+C:\Users\kique\source\repos\PracticaOOP7\PracticaOOP7\obj\Debug\PracticaOOP7.csproj.AssemblyReference.cache
+C:\Users\kique\source\repos\PracticaOOP7\PracticaOOP7\obj\Debug\PracticaOOP7.csproj.CoreCompileInputs.cache
+C:\Users\kique\source\repos\PracticaOOP7\PracticaOOP7\obj\Debug\PracticaOOP7.exe
+C:\Users\kique\source\repos\PracticaOOP7\PracticaOOP7\obj\Debug\PracticaOOP7.pdb
